@@ -19,15 +19,6 @@ Category Breakdown: Visual split of sales by product categories such as Electron
 
 Key Metrics (KPIs): Total sales, units sold, average selling price
 
-🎛️ Interactive Filters:
-Users can dynamically explore the dashboard by filtering:
-
-Region
-
-Product Category
-
-Date Range
-
 💡 Tools & Skills Used:
 
 Microsoft Excel: For initial data preparation
@@ -38,13 +29,3 @@ Power Query: For cleaning, transforming, and modeling the data
 
 Data Storytelling & Visualization Best Practices: Color coding, intuitive layout, KPI highlighting
 
-✅ Outcome:
-The dashboard enabled business users to:
-
-Identify top-performing products and underperforming categories
-
-Optimize sales strategies based on regional insights
-
-Track performance against KPIs for better forecasting
-
-Enhance business reporting with clear, interactive visuals
