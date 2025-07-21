@@ -5,6 +5,7 @@
 🔍 Objective:
 To empower business stakeholders with a visual, interactive overview of sales trends, product performance, and regional effectiveness — enabling faster, data-driven business decisions.
 
+![image alt](https://github.com/Kanchimanoj/Sales-Data-Dashboard/blob/91e3038ac3a40b1c4f7bbb481e79c9a07d07ccbb/Sales%20Dashboard.png)
 
 📊 Key Insights Visualized:
 
